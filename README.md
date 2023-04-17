@@ -28,4 +28,4 @@
 
 -   [LinkedIn](https://www.linkedin.com/in/ewelina-stepien-959464257/)
 
-[![My Awesome Stats]([https://awesome-github-stats.azurewebsites.net/user-stats/estepien1?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)](https://awesome-github-stats.azurewebsites.net/user-stats/estepien1?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card))
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/estepien1?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)
