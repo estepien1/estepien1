@@ -1,7 +1,5 @@
 ## Hi, it's nice to meet you! **👋**
 
-------------------------------------------------------------------------
-
 #### **👩‍💻 About Me**
 
 -   I'm Ewelina, an aspiring data analyst from the UK 🇬🇧
