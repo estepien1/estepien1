@@ -1,6 +1,4 @@
-## <center> Hi, it's nice to meet you! **👋**
-
-## </center>
+## <center> Hi, it's nice to meet you! **👋** </center>
 
 ------------------------------------------------------------------------
 
