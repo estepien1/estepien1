@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, it's nice to meet you! 👋
 
-<!--
-**estepien1/estepien1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***About me***
+
+I'm Ewelina, an aspiring data analyst from the UK. I have developed an interest in data management and analysis while completing my psychology degrees and decided to purse this passion. 
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
