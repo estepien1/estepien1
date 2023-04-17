@@ -1,4 +1,4 @@
-## <center> Hi, it's nice to meet you! **👋** </center>
+## Hi, it's nice to meet you! **👋**
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@
 
 -   [LinkedIn](https://www.linkedin.com/in/ewelina-stepien-959464257/)
 
-<center>[![](https://awesome-github-stats.azurewebsites.net/user-stats/estepien1?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)</center>
+<center>[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/estepien1?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)</center>
