@@ -2,7 +2,7 @@
 
 #### **👩‍💻 About Me**
 
--   I'm Ewelina, an aspiring data analyst from the UK 🇬🇧
+-   I'm Ewelina, a data analyst from the UK 🇬🇧
 -   I have developed an interest in data analytics while studying a master's degree in psychology and decided to pursue this passion ever since
 -   I have been learning R and SQL as well as advancing the knowledge of other data-focused tools, such as Microsoft Excel
 
